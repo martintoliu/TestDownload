@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/martintoliu/TestDownload/master/app.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/martintoliu/TestDownload/master/Icon512.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/martintoliu/TestDownload/master/Icon57.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
